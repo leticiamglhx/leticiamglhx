@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @leticiamglhx
-- 👀 I’m interested in games, frontend and robotics
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning JS.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: my dream is one day be able to do something awesome for the word in the robotic side or maybe a game for my favorites books
+- ⚡ Fun fact: my dream is one day be able to do something awesome for the world using technology 
 
 <!---
 leticiamglhx/leticiamglhx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
