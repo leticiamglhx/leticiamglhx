@@ -30,7 +30,7 @@ Estudante de **SISTEMAS DE INFORMAÇÃO** no **CEFET/RJ** focada em construir ap
 
 ---
 ### 🐍 Snake Contribution Graph
-![github contribution grid snake animation](https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/leticiamglhx/leticiamglhx/output/github-contribution-grid-snake.svg)
 ---
 
 ### 📫 Vamos nos conectar?
