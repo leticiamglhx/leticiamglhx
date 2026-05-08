@@ -29,6 +29,9 @@ Estudante de **SISTEMAS DE INFORMAÇÃO** no **CEFET/RJ** focada em construir ap
 
 
 ---
+### 🐍 Snake Contribution Graph
+![github contribution grid snake animation](https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake.svg)
+---
 
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8E24AA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-magalh%C3%A3es-95175838b)
