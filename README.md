@@ -9,11 +9,11 @@
 ---
 
 ### 👩‍💻 Sobre Mim
-Estudante de **SISTEMAS DE INFORMAÇÃO** no **CEFET/RJ** focada em construir aplicações escaláveis e interfaces elegantes. Transito entre o desenvolvimento **Fullstack** com o ecossistema Node.js e o aprendizado acadêmico sólido com linguagens como Java e C.
+Estudante de **SISTEMAS DE INFORMAÇÃO** no **CEFET/RJ** focada em construir aplicações escaláveis e interfaces elegantes. Transito entre o desenvolvimento **Fullstack** 
 
-* 🌱 Atualmente me aprofundando em: **NestJS, TypeORM e Autenticação (Auth)**.
-* 🎨 No frontend, apaixonada pela produtividade do **Material UI (MUI)**.
-* 📚 Conhecimentos acadêmicos e fundamentos em **Java e C**.
+* 🌱 Atualmente me aprofundando em: **NestJS e TypeORM**.
+* 🎨 No frontend, apaixonada pela produtividade do **Material UI (MUI) e BootStrap**.
+* 📚 Conhecimentos acadêmicos e fundamentos em **Java, C, JavaScript e TypeScript**.
 * ⚡ **Fun Fact:** Meu sonho é usar a tecnologia para criar algo incrível que impacte o mundo de forma positiva.
 
 ---
