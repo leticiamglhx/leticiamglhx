@@ -27,11 +27,12 @@ Estudante de **SISTEMAS DE INFORMAÇÃO** no **CEFET/RJ** focada em construir ap
 | ![Node.js](https://img.shields.io/badge/Node.js-FF8C00?style=flat-square&logo=nodedotjs&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-E91E63?style=flat-square&logo=css3&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-8E24AA?style=flat-square&logo=mysql&logoColor=white) |
 | ![C](https://img.shields.io/badge/C-E91E63?style=flat-square&logo=c&logoColor=white) | ![MUI](https://img.shields.io/badge/MUI-FF8C00?style=flat-square&logo=mui&logoColor=white) | ![Git](https://img.shields.io/badge/Git-8E24AA?style=flat-square&logo=git&logoColor=white) |
 
-
+<!--
 ---
 ### 🐍 Snake Contribution Graph
 ![Snake animation](https://raw.githubusercontent.com/leticiamglhx/leticiamglhx/output/github-contribution-grid-snake.svg)
 ---
+-->
 
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8E24AA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/let%C3%ADcia-magalh%C3%A3es-95175838b)
